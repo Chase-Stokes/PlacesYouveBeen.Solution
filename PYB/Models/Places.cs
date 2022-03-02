@@ -11,10 +11,15 @@ namespace PYB.Models
 
     public Places(string cityName, string description)
     {
-      CityName = CityName;
+      CityName = cityName;
       Description = description;
       _places.Add(this);
       Id = _places.Count;
+    }
+
+    public static void ClearAll()
+    {
+      _places.Clear();
     }
 
     public static List<Places> GetAll()
@@ -24,7 +29,7 @@ namespace PYB.Models
 
     public static Places Find(int searchId)
     {
-      return _places[searchId -1];
+      return _places[searchId - 1];
     }
   }
 }

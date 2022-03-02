@@ -22,7 +22,6 @@ C:\Users\chase\onedrive\desktop\epicodusC\PlacesYouveBeen.Solution\PYB\obj\Debug
 C:\Users\chase\onedrive\desktop\epicodusC\PlacesYouveBeen.Solution\PYB\obj\Debug\net5.0\PYB.TagHelpers.output.cache
 C:\Users\chase\onedrive\desktop\epicodusC\PlacesYouveBeen.Solution\PYB\obj\Debug\net5.0\PYB.RazorCoreGenerate.cache
 C:\Users\chase\onedrive\desktop\epicodusC\PlacesYouveBeen.Solution\PYB\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\chase\onedrive\desktop\epicodusC\PlacesYouveBeen.Solution\PYB\obj\Debug\net5.0\Razor\Views\Places\DeleteAll.cshtml.g.cs
 C:\Users\chase\onedrive\desktop\epicodusC\PlacesYouveBeen.Solution\PYB\obj\Debug\net5.0\Razor\Views\Places\Index.cshtml.g.cs
 C:\Users\chase\onedrive\desktop\epicodusC\PlacesYouveBeen.Solution\PYB\obj\Debug\net5.0\Razor\Views\Places\New.cshtml.g.cs
 C:\Users\chase\onedrive\desktop\epicodusC\PlacesYouveBeen.Solution\PYB\obj\Debug\net5.0\Razor\Views\Places\Show.cshtml.g.cs

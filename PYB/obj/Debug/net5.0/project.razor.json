@@ -15629,11 +15629,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\chase\\onedrive\\desktop\\epicodusC\\PlacesYouveBeen.Solution\\PYB\\Views\\Places\\DeleteAll.cshtml",
-      "TargetPath": "Views\\Places\\DeleteAll.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\chase\\onedrive\\desktop\\epicodusC\\PlacesYouveBeen.Solution\\PYB\\Views\\Places\\Show.cshtml",
       "TargetPath": "Views\\Places\\Show.cshtml",
       "FileKind": "mvc"
