@@ -31,7 +31,7 @@ namespace PYB.Tests
       string cityName1 ="seattle";
       Places newPlace = new Places(cityName, description);
       Places newPlace1 = new Places(cityName1, description1);
-      Places result = Places.Find(2); // change the number in Find() for good fail
+      Places result = Places.Find(1); // change the number in Find() for good fail
       Assert.AreEqual(newPlace, result);
     }
   }
