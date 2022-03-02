@@ -34,5 +34,16 @@ namespace PYB.Tests
       Places result = Places.Find(1); // change the number in Find() for good fail
       Assert.AreEqual(newPlace, result);
     }
+    
+    [TestMethod]
+    public void GetId_InstantiatePlaceWithID_Int()
+    {
+      string description = "It was cool";
+      string cityName ="portland";
+      Places newPlace = new Places(cityName, description);
+      int result = 0; //set result to 0 for good fail
+      Assert.AreEqual(1, result);
+    }
+
   }
 }
